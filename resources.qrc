@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Note-add.svg</file>
+        <file>icons/Note-remove.svg</file>
+        <file>icons/Notebook-new.svg</file>
+        <file>icons/Notebook-open.svg</file>
+        <file>icons/Notebook-save-as.svg</file>
+        <file>icons/Notebook-save.svg</file>
+        <file>icons/Icon_1.svg</file>
+        <file>icons/Icon_2.svg</file>
+        <file>icons/Icon_3.svg</file>
+    </qresource>
+</RCC>
